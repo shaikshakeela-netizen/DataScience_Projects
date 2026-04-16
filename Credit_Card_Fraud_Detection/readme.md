@@ -52,8 +52,8 @@ The system not only predicts fraud but also provides **data insights, visualizat
 
 ## 📊 Workflow
 
-```<img width="982" height="537" alt="Screenshot 2026-04-12 113854" src="https://github.com/user-attachments/assets/91d35e1e-824b-4757-a73a-9b250debe9a8" />
-text
+
+```
 Data Upload → Data Preprocessing → EDA → 
 Handling Imbalance (SMOTE) → Model Training → 
 Evaluation → Real-time Prediction
@@ -72,20 +72,7 @@ Evaluation → Real-time Prediction
 * Focus on **high recall** to minimize fraud miss rate
 * Comparison between Random Forest and Logistic Regression
 
----
 
-## 📷 Application Preview
-
-👉 Add screenshots here
-Example:
-
-* EDA Dashboard
-* Model Training Output
-* Prediction Interface
-
-*(Tip: Upload screenshots in GitHub repo → copy image link → paste here)*
-
----
 
 ## 🚀 How to Run Locally
 
@@ -103,20 +90,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📁 Project Structure
-
-```text
-📦 credit-card-fraud-detection
- ┣ 📂 data/
- ┣ 📂 notebooks/
- ┣ 📜 app.py
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
-```
-
----
 
 ## 💡 Key Highlights
 
@@ -149,5 +122,5 @@ streamlit run app.py
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-<img width="982" height="537" alt="Screenshot 2026-04-12 113854" src="https://github.com/user-attachments/assets/a3b71eb0-b42d-4562-a10d-369fca01d934" />
+
 
