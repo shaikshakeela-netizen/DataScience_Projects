@@ -149,3 +149,5 @@ streamlit run app.py
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
+<img width="982" height="537" alt="Screenshot 2026-04-12 113854" src="https://github.com/user-attachments/assets/a3b71eb0-b42d-4562-a10d-369fca01d934" />
+
