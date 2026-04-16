@@ -52,7 +52,8 @@ The system not only predicts fraud but also provides **data insights, visualizat
 
 ## 📊 Workflow
 
-```text
+```<img width="982" height="537" alt="Screenshot 2026-04-12 113854" src="https://github.com/user-attachments/assets/91d35e1e-824b-4757-a73a-9b250debe9a8" />
+text
 Data Upload → Data Preprocessing → EDA → 
 Handling Imbalance (SMOTE) → Model Training → 
 Evaluation → Real-time Prediction
